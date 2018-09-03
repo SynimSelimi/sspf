@@ -1,0 +1,16 @@
+python
+python3
+python3-pip
+scapy
+ip
+arp
+arping
+sslstrip
+arptables
+iptables
+arpspoof
+dnsspoof
+dhclient
+macchanger
+tcpdump
+x-term
