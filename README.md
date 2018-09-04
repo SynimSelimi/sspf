@@ -33,3 +33,6 @@ Please install **Kali Linux** and run the following commands OR install the tool
 Run the framework using **python3 sspf.py** OR create an executable and run it using **./sspf**.
 
 The given functionalities are rather self-explanatory.
+
+## Acknowledgements
+This work would not be possible without the direct or indirect influence and source code from the open source community. Through this open source non-commercial software we are trying to acknowledge and further the contribution.
