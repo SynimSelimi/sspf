@@ -1,7 +1,7 @@
 # sspf
 #### *Cyber Deception Framework*
 
-## Functionalities:
+## Usage
 1.	lanusrs
 2.	arp show
 3.	tableflush
@@ -18,7 +18,7 @@
 14. dnsp {link}
 15. netconfig
 
-## Instructions
+## Installation
 Please install **Kali Linux** and run the following commands OR install the tools and libraries specified in **requirements.txt**
 
 ```sh
@@ -33,6 +33,9 @@ Please install **Kali Linux** and run the following commands OR install the tool
 Run the framework using **python3 sspf.py** OR create an executable and run it using **./sspf**.
 
 The given functionalities are rather self-explanatory.
+
+## Contributing
+Please read CONTRIBUTING.md and CODE_OF_CONDUCT.md for details on our pull request submission process and our code of conduct. Note that the code of conduct is to followed in all interactions with the project. Templates are provided in .github/ISSUE_TEMPLATE/ for any bug reports or new feature requests.
 
 ## Acknowledgements
 This work would not be possible without the direct or indirect influence and source code from the open source community. Through this open source non-commercial software we are trying to acknowledge and further the contribution.
