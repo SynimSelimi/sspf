@@ -35,7 +35,7 @@ Run the framework using **python3 sspf.py** OR create an executable and run it u
 The given functionalities are rather self-explanatory.
 
 ## Contributing
-Please read CONTRIBUTING.md and CODE_OF_CONDUCT.md for details on our pull request submission process and our code of conduct. Note that the code of conduct is to followed in all interactions with the project. Templates are provided in .github/ISSUE_TEMPLATE/ for any bug reports or new feature requests.
+Please read CONTRIBUTING.md and CODE_OF_CONDUCT.md for details on our pull request submission process and our code of conduct. Note that the code of conduct is to followed in all interactions with the project. Templates are provided in .github/ISSUE_TEMPLATE/ for any bug reports or new feature requests. When in doubt, you can read a pull request template in PULL_REQUEST_TEMPLATE.md.
 
 ## Acknowledgements
 This work would not be possible without the direct or indirect influence and source code from the open source community. Through this open source non-commercial software we are trying to acknowledge and further the contribution.
